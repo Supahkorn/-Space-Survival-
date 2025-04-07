@@ -12,7 +12,7 @@ o รายละเอียดเกมสั้น ๆ
 
 o วิธีการเล่น
 บังคับ WASD 
-o โครงสร้างระบบ Multiplayer ที่ใช้ (ระบุว่าใช้Photon, Mirror, หรือ Netcode for GameObjects)
+o โครงสร้างระบบ Multiplayer ที่ใช้ 
 Multiplayer โดย Mirror
 
 o ปัญหาที่พบ และวิธีการแก้ไข
