@@ -14,7 +14,8 @@ o โครงสร้างระบบ Multiplayer ที่ใช้ Mirror
 
 o ปัญหาที่พบ และวิธีการแก้ไข ปัญหาที่พบ จุดเกิดซ้อนทับกัน วิธีการแก้ไข ให้อีกคนกดเริ่มเพื่อเดินออกไปก่อนจะได้ไม่ชนกัน เพื่อปอ้งกันการตาย
 
-https://github.com/Supahkorn/-Space-Survival-/blob/main/login.PNG
 ![login](https://github.com/user-attachments/assets/f3947f7e-9b2c-44ff-b4b1-95b8ed5895ce)
+
 ![gameplay](https://github.com/user-attachments/assets/149f9d8e-9427-44a9-8a74-214c605c2e1f)
+
 ![gameover](https://github.com/user-attachments/assets/cc112bbd-1c0f-4aa5-a6d4-eb017328308e)
